@@ -64,13 +64,13 @@ Manually create vulnerabilities and remediate known vulnerabilities using powers
 
 ## 🔧 Remediation Steps
 ### 🪛 1. Uninstall Insecure Applications
-- Removed Firefox 110.0
+- Removed Firefox 110.0 [remediation-FireFox-uninstall.ps1](https://github.com/ghatell/programmatic-vuln-remediation/blob/main/remediation-FireFox-uninstall.ps1)
 <img width="1440" alt="log8" src="https://github.com/user-attachments/assets/2ca37d75-44e1-4745-bb03-1c9a37e18ae5" />
 
-- Disabled SMBv1
+- Disabled SMBv1 [remediation-SMBv1.ps1](https://github.com/ghatell/programmatic-vuln-remediation/blob/main/remediation-SMBv1.ps1)
 <img width="1440" alt="log9" src="https://github.com/user-attachments/assets/85014925-bb8b-4670-8844-1ca108e0a580" />
 
-- Disabled older versions of SSL/TLS and enabled TLS 1.2
+- Disabled older versions of SSL/TLS and enabled TLS 1.2 [toggle-protocols.ps1](https://github.com/ghatell/programmatic-vuln-remediation/blob/main/toggle-protocols.ps1)
 <img width="1440" alt="log10" src="https://github.com/user-attachments/assets/555353c7-8887-4eba-afad-d70976fe015e" />
 
 ---
