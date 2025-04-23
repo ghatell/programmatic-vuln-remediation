@@ -1,5 +1,5 @@
 # 🔧 Vulnerability Remediation Project
-
+![ChatGPT Image Apr 23, 2025 at 06_25_56 PM](https://github.com/user-attachments/assets/b6eace5a-1e83-46ff-a4b4-2c44798c2de9)
 
 ## 🎯 Objective
 Manually create vulnerabilities and remediate known vulnerabilities using powershell to automate the process on a Windows 10 virtual machine using Microsoft Azure and Tenable Vulnerability Management.
